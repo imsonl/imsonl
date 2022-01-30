@@ -1,7 +1,7 @@
 ### Hey I'm Sonal! 👋
-I'm Software engineer with professional skill in Angular,React and Asp.net core.
-I Build my imagination through the code.
-Self Learner.
+-I'm Software engineer with professional skill in Angular,React and Asp.net core.
+-I Build my imagination through the code.
+-Self Learner.
 
 <!--
 **imsonl/imsonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
