@@ -1,6 +1,6 @@
 ### Hey I'm Sonal! 👋
 -I'm Software engineer.
-I create Things With Code.
+🔭I create Things With Code.
 
 <!--
 **imsonl/imsonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
